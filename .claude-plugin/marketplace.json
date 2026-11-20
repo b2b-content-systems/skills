@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "b2b-content-systems",
+  "description": "Claude skills and tools by Bryan Bartlett (B2B Content Systems).",
+  "owner": { "name": "Bryan Bartlett", "url": "https://bryanbartlett.com" },
+  "plugins": [
+    {
+      "name": "chatcom",
+      "description": "Turn your group chat into your favorite TV series: an episode starring your friends, in the style of the show you love. v0.1 in development.",
+      "version": "0.1.0-dev",
+      "author": { "name": "Bryan Bartlett" },
+      "category": "creative",
+      "source": { "source": "github", "repo": "b2b-content-systems/chatcom" },
+      "homepage": "https://b2b-content-systems.github.io/chatcom/"
+    }
+  ]
+}
